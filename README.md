@@ -18,7 +18,7 @@ Logo Tiger 3 Enterprise ERP sistemleri için geliştirilen yardımcı araçlar p
 
 ## 📦 Kurulum
 
-1. En son sürümü [Releases](https://github.com/canberkdoger/LogoTigerTools/releases) sayfasından indirin
+1. En son sürümü [Releases](https://github.com/canberkdoger/LogoTiger3Enterprise-Tools/releases) sayfasından indirin
 2. İndirilen dosyayı çalıştırın
 3. Kurulum yönergelerini takip edin
 
